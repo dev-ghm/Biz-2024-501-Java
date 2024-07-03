@@ -26,7 +26,7 @@ public class HelloG {
 		for(int i=0; i<100; i++) {
 			System.out.print(i+1);
 			System.out.print(" ");
-			if(i.length() = 5) {
+			if(i == 5) {
 				
 			}
 		}
